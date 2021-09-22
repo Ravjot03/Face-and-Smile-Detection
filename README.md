@@ -12,3 +12,4 @@ The objective is to detect object of interest (face and smile) in real time and 
 ---
 ## Output-
 The output looks like - 
+![Screenshot (213)](https://user-images.githubusercontent.com/34947492/134378297-f6dcb6bd-226f-4413-b04d-f062ee9d7083.png)
